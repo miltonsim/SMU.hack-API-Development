@@ -2,8 +2,6 @@
 
 name: Deploy
 
-# Events that trigger a workflow:
-# https://docs.github.com/en/actions/reference/events-that-trigger-workflows
 on:
   push:
     branches:
